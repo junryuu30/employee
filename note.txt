@@ -1,0 +1,6 @@
+1. install cra
+2. instal npm install react-router-dom
+3. install boostrap
+4. install server json=> npm install -g json-server
+buat json server: json-server --watch db.json --port 8000
+json-server --watch db.json
